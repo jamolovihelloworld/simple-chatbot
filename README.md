@@ -1,2 +1,3 @@
-# simple-chatbot
-simple-chatbot
+# Simple Chatbot
+
+Описание проекта simple-chatbot.
